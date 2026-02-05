@@ -1,0 +1,5 @@
+2026-02-05 19:50:53,067 - app.main - INFO - Fetching all addresses
+2026-02-05 19:51:06,155 - app.main - INFO - Deleting address 7
+2026-02-05 19:51:06,179 - app.main - INFO - Address 7 deleted
+2026-02-05 19:51:11,712 - app.main - INFO - Deleting address 7
+2026-02-05 19:51:11,713 - app.main - WARNING - Address 7 not found
